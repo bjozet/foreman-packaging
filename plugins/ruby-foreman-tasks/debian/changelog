@@ -1,3 +1,9 @@
+ruby-foreman-tasks (0.13.5-1) stable; urgency=low
+
+  * 0.13.5 released
+
+ -- Björn Zettergren <bjorn.zettergren@deltaprojects.com>  Wed, 12 Sep 2018 14:01:57 +0200
+
 ruby-foreman-tasks (0.13.2-1) stable; urgency=low
 
   * 0.13.2 released
